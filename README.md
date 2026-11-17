@@ -12,6 +12,7 @@ The content comes from the "Analysis" research document, Section E › Hosting C
 |---|---|
 | `decks/Bangladesh_2050_FIFA_World_Cup_Bid.pptx` | Version 1: a full 23-slide deck (night-stadium theme) covering all sections of the analysis, with speaker notes |
 | `decks/Bangladesh_2050_FIFA_Story_10_Slides.pptx` | Version 2: a 10-slide story deck plus references, with a real map of Bangladesh (Natural Earth data) and original stadium illustrations |
+| `decks/Bangladesh_2050_FIFA_Final_Morph.pptx` | **Version 3 (final):** a 10-slide colourful editorial deck (navy/violet/green/yellow) with Morph transitions on every slide. The red sun, the violet band and the map glide and zoom between slides |
 | `claude-design/Claude_Design_Prompt_Bangladesh_2050.md` | A copy-paste kit for claude.ai/design: design-system README, a 10-slide prompt with a Morph animation plan, and a photo list |
 | `scripts/` | The Node.js scripts that generated the decks (`pptxgenjs` + `sharp`) |
 
